@@ -1,8 +1,7 @@
 COMMENT=	extensible HTTP/1-2-3 web server with cloudflare acme dns
 
 MODGO_MODNAME=	github.com/caddyserver/caddy/v2
-MODGO_VERSION=	v2.11.4
-REVISION=	1
+MODGO_VERSION=	v2.11.9
 DISTNAME=	caddy-dns-cloudflare-${MODGO_VERSION}
 CONFLICTS= caddy-[0-9]*
 
